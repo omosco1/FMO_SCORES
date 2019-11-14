@@ -48,7 +48,7 @@
             rssfeed_footer_color="#ffffff";
             rssfeed_footer_bgimage="";
             rssfeed_item_title_length="500";
-            rssfeed_item_title_color="#a8a4db";
+            rssfeed_item_title_color="#d673d9";
             rssfeed_item_bgcolor="#22154d";
             rssfeed_item_bgimage="";
             rssfeed_item_border_bottom="on";
