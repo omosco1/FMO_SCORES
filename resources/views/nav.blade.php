@@ -25,9 +25,9 @@
                                   <strong><li class="nav-item active">
                           <a class="nav-link text-info ml-5  mt-4" href="/Standings">STANDINGS </a>
                         </li></strong>
-                        <strong><li class="nav-item">
+                        {{-- <strong><li class="nav-item">
                           <a class="nav-link text-info ml-5  mt-4" href="/liveupdates">LIVE UPDATES</a>
-                        </li></strong>
+                        </li></strong> --}}
                         <strong><li class="nav-item">
                                 <a class="nav-link text-info ml-5  mt-4" href="/Bettings">BETTINGS</a>
                               </li></strong>
@@ -42,7 +42,7 @@
                     </div>
 
                   </nav>
-                </div>
+
 
 
 
