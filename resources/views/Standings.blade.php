@@ -181,7 +181,7 @@
             </div>
 
             <div class="col-lg-6 col-md-6 col-sm-12 mt-3">
-                    <h6 class="text-dark text-center">FA CUP League Chart</h6>
+                    <h6 class="text-warning text-center">FA CUP League Chart</h6>
                     <div id="fmoscore_1573729095070"></div>
 
                             <script>

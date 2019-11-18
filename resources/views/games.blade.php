@@ -1,4 +1,4 @@
-@extends('layout')col-lg-12 col-md-6 col-sm-12
+@extends('layout')
 
 @section('content')
 <div class="container m-auto text-info">
