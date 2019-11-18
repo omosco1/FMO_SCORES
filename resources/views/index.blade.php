@@ -28,4 +28,11 @@
         </div>
     </div>
 </div>
+
+
+<div class=" col-12">
+    <div style="color:white;font-size:18px; text-align:right; width:60%;">powered by <a href="#" rel="noopener" target="_blank" style="color:red;">Fofx Academy </a>&nbsp;
+        <a class="text-info" ><marquee width="40%" height="22px" direction="left" scrollamount="2"> Designed by FMO SCORES:<strong><i>Your Number One Online and Real-time Footbal Scores, Updates and News Centre...</i>
+        </marquee></strong></a>
+    </div></div>
 @endsection

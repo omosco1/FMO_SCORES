@@ -17,4 +17,10 @@
         </form>
         @include('soccer.comment_replies', ['comments' => $comment->replies])
     </div>
+
+
+
+
+
+
 @endforeach
