@@ -8,7 +8,7 @@
 <div class="container col-lg-6 col-md-6 col-sm-12 mt-5 mb-5">
     <div class="row justify-content-center">
 
-            <h1 class="text-info">Contact Us</h1>
+            <h1 class="text-info">Leave a Suggestion</h1>
         <div class="col-md-12">
                 <div class="card bg-info">
                 <div class="card-header text-white">Leave a Message</div>

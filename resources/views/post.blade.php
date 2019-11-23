@@ -4,8 +4,8 @@
 
 <div class="container mb-5 mt-5 ">
     <div class="row justify-content-center">
-            <h1 class="text-info">FANS ZONE</h1>
-        <div class="col-md-8">
+            <h1 class="text-info text-center">FANS ZONE</h1>
+        <div class="col-md-12">
             <div class="card bg-info">
                 <div class="card-header text-white">Create a Conversation</div>
                 <div class="card-body bg-dark">
