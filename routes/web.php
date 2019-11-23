@@ -11,15 +11,27 @@
 |
 */
 Route::view('/','home');
+
 Route::view('clubs','clubs');
+
 Route::view('games','games');
+
 Route::view('/liveupdates','liveupdates');
+
 Route::view('/Bettings','Bettings');
+
 Route::view('/Standings','Standings');
+
 Route::get('players', 'PlayerController@index');
+
 Route::get('players/create', 'PlayerController@create');
+
 Route::post('players', 'PlayerController@store');
+
 Route::get('players/{player}', 'PlayerController@show');
+
+Route::get('contact', 'ContactFormController@create');
+Route::post('contact', 'ContactFormController@store');
 
 
 Route::get('/post/create', 'PostController@create')->name('post.create');

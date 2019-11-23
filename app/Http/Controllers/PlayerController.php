@@ -54,7 +54,7 @@ class PlayerController extends Controller
 
     //  $player =new Player();
     //  $player->jerseynumber =request('jerseynumber');
-    //  $player->name =request('name');
+    //  $player->name request('name');
     //  $player->surname =request('surname');
     //  $player->age =request('age');
     //  $player->height =request('height');

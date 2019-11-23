@@ -37,6 +37,9 @@
                            <strong><li class="nav-item">
                                 <a class="nav-link text-info ml-3  mt-4" href="{{ route('posts') }}">POSTS</a>
                            </li></strong>
+                           <strong><li class="nav-item">
+                            <a class="nav-link text-info ml-3  mt-4" href="/contact">CONTACT US</a>
+                          </li></strong>
                       </ul>
 
                     </div>
